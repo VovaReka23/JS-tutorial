@@ -20,7 +20,7 @@ value = firstName.concat(' ', lastName);
 
 value = str.indexOf('n', 10);
 value = str.indexOf('!');
-value = str.includes('DENIS');
+value = str.includes('DENIS'); // true or false
 
 value = str.slice(0, 5);
 value = str.slice(0, -3);
